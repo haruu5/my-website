@@ -11,4 +11,11 @@ body {
   font-size: 40px;
   text-align: center;
 }
+
+button {
+  border: solid white;
+  color: #141822;
+  text-align: center;
+}
+  
   
